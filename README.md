@@ -1,4 +1,4 @@
-# Supply-chain-Procurement-Dasboards
+# Supply chain & Procurement Dasboards
 ### Here are examples of my working dashboards characterizing the activities of the procurement department.
 №| Dashboard name                 | Area       | Dashboard's description | Stack |
 -------| --------------------------------  | -------------- | --------------   | -------|
